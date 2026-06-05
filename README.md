@@ -4,6 +4,8 @@ Hey there! Welcome to my Online IDE project. I built this from scratch to be a f
 
 It's designed to feel a lot like VS Code, complete with an integrated terminal, a sidebar, and a nice dark/light mode toggle.
 
+🚀 **Live Demo:** [Try the Online IDE here!](https://online-ide-drab.vercel.app/)
+
 ## What's inside?
 - **Smooth editing**: Handles text efficiently using a custom virtual rendering engine and gap buffer.
 - **Responsive UI**: The interface won't freeze up while you're typing because syntax highlighting and code execution run in the background using Web Workers.
@@ -23,6 +25,8 @@ If you want to try it out on your machine, it's pretty simple:
 - React & TypeScript
 - Tailwind CSS for styling
 - Vite for the build setup
+
+
 
 Thanks for checking it out! 
 - Harsh Raghuwanshi
